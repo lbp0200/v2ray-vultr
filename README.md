@@ -38,4 +38,16 @@ PORT端口号
 
 ### 第三步 配置客户端
 
-官方版：(https://github.com/v2ray/v2ray-core/releases)
+官方版：https://github.com/v2ray/v2ray-core/releases
+
+第三方（带界面）：https://www.v2ray.com/ui_client/
+
+配置文件：https://raw.githubusercontent.com/lbp0200/v2ray-vultr/master/client.json
+
+修改配置文件里面的`VPS_IP`为你刚刚部署好的VPS的IP，`80`修改为你在第一步设置的PORT端口号
+
+最后启动客户端
+
+效果
+---
+刚刚测试了Vultr东京，跑满了20M宽带，不知道还能不能更高。
