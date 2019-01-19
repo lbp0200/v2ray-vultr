@@ -7,6 +7,7 @@
 ---
 
 ### 第一步
+
 打开[Vultr](https://polr.liuboping.com/PrgTf)，登录之后，在`Servers`-`Startup Scripts`-`Add Startup Script`
 
 `name` 随便填
@@ -25,7 +26,7 @@ PORT端口号
 
 最后，点最下方蓝色按钮`Add Script`
 
-### 第二步
+### 第二步 部署服务器
 
 新建服务器
 
@@ -33,6 +34,8 @@ PORT端口号
 
 5.`Startup Script`，选中刚才新建的`Startup Script`
 
-完成服务器的部署
+> 完成服务器的部署，等待服务器部署完成
 
-### 
+### 第三步 配置客户端
+
+官方版：(https://github.com/v2ray/v2ray-core/releases)
