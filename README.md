@@ -44,9 +44,9 @@ PORT端口号
 
 配置文件：https://raw.githubusercontent.com/lbp0200/v2ray-vultr/master/client.json
 
-修改配置文件里面的`VPS_IP`为你刚刚部署好的VPS的IP，`80`修改为你在第一步设置的PORT端口号
+修改配置文件里面的`VPS_IP`为你刚刚部署好的VPS的IP，`80`修改为你在第一步设置的PORT端口号
 
-最后启动客户端
+最后启动客户端
 
 效果
 ---
