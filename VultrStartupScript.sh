@@ -1,7 +1,7 @@
 #!/bin/sh
 
 UUID=23ad6b10-8d1a-40f7-8ad0-e3e35cd38297
-VERSION=4.19.1
+VERSION=4.20.0
 PORT=80
 
 apt update
