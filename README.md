@@ -1,16 +1,14 @@
 # v2ray-vultr
-在vultr上，在线自动部署v2ray
+在[vultr](https://www.vultr.com/?ref=6879156)上，在线自动部署v2ray
 
 >只支持Ubuntu 18.04
-
-目前Vultr在搞活动，新注册用户，充50送25，可以考虑新建的小号薅羊毛，需要老用户邀请，附上邀请链接[https://www.vultr.com/?ref=7780016-4F](https://www.vultr.com/?ref=7780016-4F)
 
 使用方法
 ---
 
 ### 第一步
 
-打开[Vultr](https://polr.liuboping.com/PrgTf)，登录之后，在`Servers`-`Startup Scripts`-`Add Startup Script`
+打开[Vultr](https://www.vultr.com/?ref=6879156)，登录之后，在`Servers`-`Startup Scripts`-`Add Startup Script`
 
 `name` 随便填
 
